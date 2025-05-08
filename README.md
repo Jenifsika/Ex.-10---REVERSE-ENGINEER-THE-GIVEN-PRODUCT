@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 24/04/25
+### DATE:08/05/25
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -33,7 +33,8 @@
 ## Input:
 
 ### Output:
-![image](https://github.com/user-attachments/assets/e60c81a3-5292-4d9f-a9bf-f1bb8abbab64)
+![screenshot png'](https://github.com/user-attachments/assets/9051bf75-bec1-4c6e-b85e-b2e8fc303763)
+
 
 
 ### Name:Annie Jenifsika A
